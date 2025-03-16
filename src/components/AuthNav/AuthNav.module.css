@@ -1,0 +1,13 @@
+.link {
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: 500;
+  color: #fff;
+  margin-left: 15px;
+  transition: color 0.3s ease;
+}
+
+.link:hover,
+.link.active {
+  color: #ff5733;
+}
